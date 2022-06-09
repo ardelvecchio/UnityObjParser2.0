@@ -1,4 +1,6 @@
 # UnityObjParser
+The following is a branch of the <b>obj parser for Unity</b> used specifically for Helios.
+It includes ability to assign color to each vertex of every primitive, which can be read from a .dat file.
 
 This <b>obj parser for Unity</b> allows you to load models from obj+mtl files <b>in runtime</b>. Requires C# 6. Tested with Unity 2017.3 on windows.
 
